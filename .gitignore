@@ -1,0 +1,12 @@
+*.o
+*.hex
+*.bin
+*.in
+*.map
+*.out
+*.c.o
+*.c.d
+*.icf
+*.ewd
+*.emProject
+*.emSession
